@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".CadastroActivity"
+    tools:context=".activity.CadastroActivity"
     android:background="@color/colorPrimary"
     android:orientation="vertical"
     android:gravity="center"
@@ -25,6 +25,7 @@
         android:layout_marginRight="32dp">
 
         <EditText
+            android:id="@+id/edit_nome"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:backgroundTint="@color/colorPrimary"
@@ -40,6 +41,7 @@
         android:layout_marginRight="32dp">
 
         <EditText
+            android:id="@+id/edit_email"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:backgroundTint="@color/colorPrimary"
@@ -56,6 +58,7 @@
         android:layout_marginRight="32dp">
 
         <EditText
+            android:id="@+id/edit_senha"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:backgroundTint="@color/colorPrimary"
@@ -64,6 +67,7 @@
     </com.google.android.material.textfield.TextInputLayout>
 
     <Button
+        android:id="@+id/button_cadastrar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
