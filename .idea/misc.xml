@@ -6,7 +6,9 @@
         <entry key="..\:/Users/thale/AndroidStudioProjects/WhatsApp/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1635" />
         <entry key="..\:/Users/thale/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/activity_cadastro.xml" value="0.1" />
         <entry key="..\:/Users/thale/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/activity_login.xml" value="0.22" />
-        <entry key="..\:/Users/thale/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/thale/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/thale/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/fragment_contatos.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/thale/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/fragment_conversas.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/thale/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/toolbar.xml" value="0.33" />
         <entry key="..\:/Users/thale/AndroidStudioProjects/WhatsApp/app/src/main/res/menu/menu_main.xml" value="0.20416666666666666" />
       </map>
