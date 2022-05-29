@@ -8,4 +8,7 @@
     <string name="cadastrar_email">E-mail</string>
     <string name="cadastrar_senha">Senha</string>
     <string name="button_cadastrar">Cadastrar</string>
+    <string name="menu_pesquisar">Pesquisar</string>
+    <string name="menu_configuracao">Configurações</string>
+    <string name="menu_sair">Sair</string>
 </resources>
