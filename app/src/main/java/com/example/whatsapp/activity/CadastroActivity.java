@@ -26,13 +26,11 @@ public class CadastroActivity extends AppCompatActivity {
     private EditText editNome, editEmail, editSenha;
     private Button btnCadastrar;
     private FirebaseAuth auth;
-    private DatabaseReference database;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_cadastro);
-        getSupportActionBar().hide();
 
         editNome = findViewById(R.id.edit_nome);
         editEmail = findViewById(R.id.edit_email);
